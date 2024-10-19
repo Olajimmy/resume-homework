@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border: 0px solid black;
+    display: flex;
+    /* margin: 20px; */
+    display: flex;
+    background-color: #f4f2f2;
+}
+img{
+    /* width: 200px; */
+    height: 200px;
+    display: flex;
+
+}
+.job-title{
+    padding-top:20px;"
+    display: block;
+    
+}
+.details{
+    border: 0px solid black;
+    display:flex;
+    padding: 5px;
+    font-weight: bold;
+}
+.details-outter{
+    margin-left: 200px;
+    display: flex;
+    justify-content: flex-end;
+}
+.dropdown-cont{
+    border: 0px solid;
+    display: flex;
+    flex: auto;
+    
+    /* margin-left: 100px; */
+}
+.dropdown{
+    border: 0px solid;
+    min-width: 900px;
+    /* display: flex; */
+    flex: auto;
+
+    background-color: rgb(133, 137, 137);
+    /* font-size: 15px; */
+    font-weight: bold;
+
+
+
+    /* padding-right: 30px; */
+   
+}
+
+.sec-drop{
+    margin-left: 60px;
+    /* display: flex; */
+    /* flex: auto; */
+   min-width: 100px;
+    background-color: rgb(211, 33, 33);
+}
+.employment{
+    border: 0px solid;
+    width: 100px;
+    margin-left: auto;
+    
+}
+.bar{
+    margin-left: 10px;
+}
+.pd-section{
+    margin: top 10px;
+}
+
+
+.doc{
+    /* width: 900px; */
+    border: 0px solid ;
+    height: 700px;
+    
+    
+}
+.doc-outter{
+    display: flex;
+    /* justify-content: center; */
+
+}
+.sec{
+    width: 300px;
+    margin-left: auto;
+    /* display: block; */
+    /* justify-content: space-around; */
+}
+
+.dot-cont{
+    border: 0px solid;
+    display: block;
+    height: 80px;
+    justify-content: flex-start;
+    
+
+}
+.dot{
+    border: 0px solid;
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+}
+.dot2{
+    border: 0px solid;
+    background-color: rgb(78, 205, 4);
+    height: 20px;
+    width: 20px;
+}
+
+
+
